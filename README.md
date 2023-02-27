@@ -22,7 +22,7 @@ A Web application that sells some beauty products.
 - Built with React and JSON server deployed API on render.
 - User will be able to login and signup and can add products to cart and delete also.
 
-### [OLX clone](transcendent-sable-57a31a.netlify.app/)
+### [OLX clone](https://transcendent-sable-57a31a.netlify.app/)
 A full-featured e-commerce website built with Javascript, help the people to sell their old products.
 - Implemented user authentication and authorization
 - Incorporated search and filtering functionality for a better user experience
