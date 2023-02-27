@@ -13,6 +13,9 @@
 - MySQL
 - Git and GitHub
 
+## Skills
+https://gulam160.github.io/
+
 ## Projects 🚧
 ### [Skinnco](https://skinnco-by-gulam160.netlify.app)
 A Web application that sells some beauty products.
