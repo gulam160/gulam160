@@ -13,7 +13,7 @@
 - MySQL
 - Git and GitHub
 
-## Skills
+## Portfolio
 https://gulam160.github.io/
 
 ## Projects 🚧
