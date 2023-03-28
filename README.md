@@ -29,9 +29,9 @@
 
 ### GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gulam160&show_icons=true&locale=en" alt="gulam160" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gulam160&show_icons=true&locale=en" alt="gulam160" /></p>
  
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gulam160&" alt="gulam160" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gulam160&" alt="gulam160" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gulam160&show_icons=true&locale=en&layout=compact" alt="gulam160" /></p>
 
@@ -52,7 +52,6 @@ A full-featured e-commerce website built with Javascript, help the people to sel
 - Incorporated search and filtering functionality for a better user experience
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulam160) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gulam158)
 <p align="left">
 <a href="https://codepen.io/gulam160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gulam160" height="30" width="40" /></a>
 <a href="https://dev.to/gulam159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gulam159" height="30" width="40" /></a>
