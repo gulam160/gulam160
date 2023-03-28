@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350"/>
+<img align="center" width="100%" src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966"/>
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 <br />
 
-### GitHub Statistics
+### 📈 GitHub Statistics
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gulam160&show_icons=true&locale=en" alt="gulam160" /></p>
  
@@ -37,10 +37,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulam160" alt="gulam160" /></a> </p>
 
-### Portfolio
-https://gulam160.github.io/
-
-### Projects 🚧
+### 🚧 Projects
 #### [Skinnco](https://skinnco-by-gulam160.netlify.app)
 A Web application that sells some beauty products.
 - Built with React and JSON server deployed API on render.
@@ -65,12 +62,7 @@ A full-featured e-commerce website built with Javascript, help the people to sel
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulam160&label=Profile%20views&color=0e75b6&style=flat" alt="gulam160" /> <p/>
 
-### Personal 🎉
+### 🎉 Personal
 I love playing guitar, hiking, and trying out new coffee shops. I'm also a big fan of The Office and always have an episode ready to go for those down moments.
 
 > "The only way to do great work is to love what you do." - Steve Jobs
-
-<!---
-gulam160/gulam160 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
