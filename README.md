@@ -3,10 +3,11 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Gulam Mustafa</h1>
-<h3 align="center">I'm a Full Stack Web developer based in Mumbai India and ardent and passionate about building innovative and user-friendly applications.</h3>
+<h3 align="center">I'm a Full Stack Engineer based in Navi Mumbai, India and ardent and passionate about building innovative and user-friendly applications.</h3>
 <img align="right" width="300" alt="coding" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47log2ipvxee997uoy7itwqcq4xoods85xzxbhw6sv&rid=200.webp&ct=g">
 
-- 🔭 I am a result-oriented MERN Stack Developer and always ardent about developing useful and amazing web applications. I have a strong foundation in both Frontend and Backend technologies and have strong problem-solving skills
+- 🔭 Full Stack Developer with a strong background in MERN stack along with expertise in SvelteKit, NextJS, and React-Native. Skilled in creating web applications that can adapt to different screen sizes, turning design ideas into functional UIs with the backend, and ensuring users have a great experience no matter their device.
+
 
 - 👯 I’m looking for collaborative **Team**
 
