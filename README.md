@@ -52,13 +52,13 @@ A full-featured e-commerce website built with Javascript, help the people to sel
 ### 🌐 Socials:
 <p align="left">
 <a href="https://codepen.io/gulam160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gulam160" height="30" width="40" /></a>
-<a href="https://dev.to/gulam159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gulam159" height="30" width="40" /></a>
+<a href="https://dev.to/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gulam159" height="30" width="40" /></a>
 <a href="https://twitter.com/gulam158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulam158" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-mustafa-s" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2137524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2137524" height="30" width="40" /></a>
 <a href="https://codesandbox.com/gulam160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gulam160" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user3791rx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3791rx" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/gulam_mu159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gulam_mu159" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3791rx" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gulam_mu159" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulam160&label=Profile%20views&color=0e75b6&style=flat" alt="gulam160" /> <p/>
